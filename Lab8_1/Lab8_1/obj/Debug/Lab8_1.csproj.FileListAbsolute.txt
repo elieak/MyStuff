@@ -1,0 +1,9 @@
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\bin\Debug\Lab8_1.exe.config
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\obj\Debug\Lab8_1.csprojResolveAssemblyReference.cache
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\bin\Debug\Lab8_1.exe
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\bin\Debug\Lab8_1.pdb
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\obj\Debug\Lab8_1.exe
+C:\Users\Code Value\Desktop\Lab8_1\Lab8_1\obj\Debug\Lab8_1.pdb
+C:\Users\eabukara\Desktop\Lab8_1\Lab8_1\bin\Debug\Lab8_1.exe.config
+C:\Users\eabukara\Desktop\Lab8_1\Lab8_1\obj\Debug\Lab8_1.exe
+C:\Users\eabukara\Desktop\Lab8_1\Lab8_1\obj\Debug\Lab8_1.pdb

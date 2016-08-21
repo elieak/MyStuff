@@ -1,0 +1,12 @@
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe.config
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.pdb
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.exe
+C:\Users\Code Value\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.pdb
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe.config
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.exe
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.pdb
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.pdb
+C:\Users\eabukara\Desktop\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.csprojResolveAssemblyReference.cache
